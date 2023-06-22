@@ -45,4 +45,10 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun AffirmationsApp() {
+
+}
+
+@Composable
+fun AffirmationCard(){
+
 }
